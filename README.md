@@ -8,17 +8,17 @@
 
 ### Styling & UI
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,styledcomponents,jquery" />
+<img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,react" />
 </p>
 
 ### Backend & Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,python,java" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,python,java" />
 </p>
 
 ### Tools & Environment
 <p>
-<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio,idea,webstorm,androidstudio" />
+<img src="https://skillicons.dev/icons?i=git,vscode,idea,androidstudio" />
 </p>
 
 ### Operating Systems
