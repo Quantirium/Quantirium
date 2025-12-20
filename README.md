@@ -49,13 +49,3 @@ Hey! I'm RynoxPrime, a developer from Iran who started coding at a young age and
 <div align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RynoxPrime&bg_color=0d1117&color=ffffff&line=c9d1d9&point=ffffff&area=true&area_color=8b949e&title_color=ffffff&hide_border=true&height=300" />
 </div>
-
----
-
-## Connect With Me
-
-<div align="center">
-<a href="https://discord.com/users/898834886679494676">
-<img src="https://lanyard-profile-readme.vercel.app/api/898834886679494676?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=15px&idleMessage=Coding%20something%20epic...%20🚀" width="400" />
-</a>
-</div>
