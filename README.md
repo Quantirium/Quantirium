@@ -51,7 +51,7 @@ Git obviously. VSCode is my main editor, IntelliJ IDEA for Java projects, Androi
 <img src="https://github.com/RynoxPrime/RynoxPrime/raw/refs/heads/main/windows-11.svg" alt="Windows 11" width="48" height="48" />
 </p>
 
-I dual boot Linux and Windows 11. Linux for development mostly, Windows for other stuff.
+I'm mainly on Linux for development and pretty much everything. I know my way around Windows too when I need to.
 
 ---
 
