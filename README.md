@@ -55,17 +55,6 @@ I'm mainly on Linux for development and pretty much everything. I know my way ar
 
 ---
 
-## Some GitHub stats
-
-Here's my GitHub activity if you're interested in numbers.
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Quantirium&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=c9d1d9&text_color=ffffff&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantirium&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&count_private=true&langs_count=8" alt="Most Used Languages" />
-</div>
-
----
-
 ## Discord
 
 If you want to see what I'm up to or just want to chat:
