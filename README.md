@@ -1,6 +1,6 @@
-# RynoxPrime
+# Quantirium
 
-Hey, I'm RynoxPrime. Been coding since I was pretty young, based in Iran. I like to keep things private so I don't really share my real name here, but you can check out my work and that should tell you enough.
+Hey, I'm Quantirium. Been coding since I was pretty young, based in Iran. I like to keep things private so I don't really share my real name here, but you can check out my work and that should tell you enough.
 
 Still learning new stuff every day and working on different projects. Always something new to figure out.
 
@@ -48,7 +48,7 @@ Git obviously. VSCode is my main editor, IntelliJ IDEA for Java projects, Androi
 ### Operating Systems
 <p>
 <img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://github.com/RynoxPrime/RynoxPrime/raw/refs/heads/main/windows-11.svg" alt="Windows 11" width="48" height="48" />
+<img src="https://github.com/Quantirium/Quantirium/raw/refs/heads/main/windows-11.svg" alt="Windows 11" width="48" height="48" />
 </p>
 
 I'm mainly on Linux for development and pretty much everything. I know my way around Windows too when I need to.
@@ -60,19 +60,19 @@ I'm mainly on Linux for development and pretty much everything. I know my way ar
 Here's my GitHub activity if you're interested in numbers.
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RynoxPrime&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=c9d1d9&text_color=ffffff&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RynoxPrime&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&count_private=true&langs_count=8" alt="Most Used Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Quantirium&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&icon_color=c9d1d9&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantirium&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&count_private=true&langs_count=8" alt="Most Used Languages" />
 </div>
 
 <div align="center">
-<img width="49%" src="https://streak-stats.demolab.com/?user=RynoxPrime&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=ffffff&fire=c9d1d9&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
-<img width="49%" src="https://github-widgetbox.vercel.app/api/profile?username=RynoxPrime&data=followers,repositories,stars,commits&theme=darkmode" alt="Profile Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Quantirium&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=ffffff&fire=c9d1d9&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
+<img width="49%" src="https://github-widgetbox.vercel.app/api/profile?username=Quantirium&data=followers,repositories,stars,commits&theme=darkmode" alt="Profile Stats" />
 </div>
 
 ## Contribution graph
 
 <div align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RynoxPrime&bg_color=0d1117&color=ffffff&line=c9d1d9&point=ffffff&area=true&area_color=8b949e&title_color=ffffff&hide_border=true&height=300" alt="Contribution Graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Quantirium&bg_color=0d1117&color=ffffff&line=c9d1d9&point=ffffff&area=true&area_color=8b949e&title_color=ffffff&hide_border=true&height=300" alt="Contribution Graph" />
 </div>
 
 ---
@@ -82,9 +82,9 @@ Here's my GitHub activity if you're interested in numbers.
 If you want to see what I'm up to or just want to chat:
 
 <div align="center">
-<a href="https://discord.com/users/898834886679494676">
-<img src="https://lanyard-profile-readme.vercel.app/api/898834886679494676?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=15px&idleMessage=Coding%20something%20epic..." width="400" alt="Discord Status" />
-</a>
+  <a href="https://discord.com/users/898834886679494676">
+  <img src="https://lanyard-profile-readme.vercel.app/api/898834886679494676?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=15px&idleMessage=Coding%20something%20epic..." width="400" alt="Discord Status" />
+  </a>
 </div>
 
 Usually working on something or learning new tech. Feel free to reach out.
