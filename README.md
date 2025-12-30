@@ -64,17 +64,6 @@ Here's my GitHub activity if you're interested in numbers.
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantirium&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&count_private=true&langs_count=8" alt="Most Used Languages" />
 </div>
 
-<div align="center">
-<img width="49%" src="https://streak-stats.demolab.com/?user=Quantirium&theme=dark&hide_border=true&background=0D1117&stroke=ffffff&ring=ffffff&fire=c9d1d9&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub Streak" />
-<img width="49%" src="https://github-widgetbox.vercel.app/api/profile?username=Quantirium&data=followers,repositories,stars,commits&theme=darkmode" alt="Profile Stats" />
-</div>
-
-## Contribution graph
-
-<div align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Quantirium&bg_color=0d1117&color=ffffff&line=c9d1d9&point=ffffff&area=true&area_color=8b949e&title_color=ffffff&hide_border=true&height=300" alt="Contribution Graph" />
-</div>
-
 ---
 
 ## Discord
